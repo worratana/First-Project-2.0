@@ -17,6 +17,8 @@ input[type="date"]
 form{
     width: 400px;
 
+    margin: 40px auto;
+
     padding: 20px;
 
     border: 2px dashed rgb(255, 109, 134);
